@@ -1,4 +1,4 @@
-package main
+package go_api_file_picker
 
 import (
 	"io/fs"
